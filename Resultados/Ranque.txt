@@ -1,0 +1,6 @@
+Algoritmo	Media Ranque
+Beam Search	1.65
+Hill Climbing	1.85
+GRASP	3.1
+Simulated Annealing	3.45
+Algoritmo Genetico	4.65

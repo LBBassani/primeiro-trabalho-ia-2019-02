@@ -1,0 +1,6 @@
+Ranque	Algoritmo	Valor
+1.5	Hill Climbing	3425
+1.5	Beam Search	3425
+3.0	Simulated Annealing	3333
+4.0	GRASP	3225
+5.0	Algoritmo Genetico	641
