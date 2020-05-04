@@ -38,7 +38,7 @@ import seaborn as sea
 from matplotlib import pyplot as plt
 import trabalhoIA
 
-# import scriptTreinamento
+import scriptTreinamento
 
 # Leitura dos Resultados do Treinamento
 resultadosTreinamentos = { }
@@ -94,7 +94,7 @@ print("Parametros Beam Search:", resultadosTreinamentos["Beam Search"][0][1])
 print("Parametros Simulated Annealing:", resultadosTreinamentos["Simulated Annealing"][0][1])
 print("Parametros GRASP:", resultadosTreinamentos["GRASP"][0][1])
 
-# import scriptTeste
+import scriptTeste
 
 # Leitura dos arquivos de resultados
 resultadosTestes = { }

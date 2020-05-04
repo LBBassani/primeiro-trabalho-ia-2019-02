@@ -2,3 +2,5 @@
 *.pdf
 *.teste.pyc
 *.teste.py
+env
+.vscode

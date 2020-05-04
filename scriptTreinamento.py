@@ -1,9 +1,9 @@
 from ioTools import ParamFileReader, resultadosFileWriter
-from Busca.ProblemasBusca.mochila import mochila
-from Busca.AlgoritmosBusca.beamSearch import beamSearch
-from Busca.AlgoritmosBusca.simulatedAnnealing import simulatedAnnealing
-from Busca.AlgoritmosBusca.genetico import algoritmoGenetico
-from Busca.AlgoritmosBusca.grasp import grasp
+from ia_busca.ProblemasBusca.mochila import mochila
+from ia_busca.AlgoritmosBusca.beamSearch import beamSearch
+from ia_busca.AlgoritmosBusca.simulatedAnnealing import simulatedAnnealing
+from ia_busca.AlgoritmosBusca.genetico import algoritmoGenetico
+from ia_busca.AlgoritmosBusca.grasp import grasp
 from problemas import problemasTreino
 import trabalhoIA
 

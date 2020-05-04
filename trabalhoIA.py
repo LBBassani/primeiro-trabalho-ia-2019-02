@@ -1,7 +1,7 @@
 """ Problemas de teste e treinamento 
 para o primeiro trabalho prático de IA 
 """
-from Busca.ProblemasBusca import IProblema
+from ia_busca.ProblemasBusca import IProblema
 from sklearn.model_selection import ParameterGrid
 from queue import PriorityQueue
 import pandas as pd

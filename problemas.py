@@ -1,4 +1,4 @@
-from Busca.ProblemasBusca.mochila import mochila
+from ia_busca.ProblemasBusca.mochila import mochila
 
 # Problemas de Treino de acordo com apendice A do enunciado do primeiro trabalho de IA
 problemasTreino = {
